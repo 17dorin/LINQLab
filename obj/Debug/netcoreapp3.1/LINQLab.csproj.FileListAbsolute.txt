@@ -1,0 +1,13 @@
+C:\Users\17dor\source\repos\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.exe
+C:\Users\17dor\source\repos\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.deps.json
+C:\Users\17dor\source\repos\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.json
+C:\Users\17dor\source\repos\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.dev.json
+C:\Users\17dor\source\repos\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\17dor\source\repos\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\17dor\source\repos\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csprojAssemblyReference.cache
+C:\Users\17dor\source\repos\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfoInputs.cache
+C:\Users\17dor\source\repos\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfo.cs
+C:\Users\17dor\source\repos\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.CoreCompileInputs.cache
+C:\Users\17dor\source\repos\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\17dor\source\repos\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\17dor\source\repos\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.genruntimeconfig.cache
