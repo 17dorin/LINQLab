@@ -66,6 +66,10 @@ namespace LINQLab
             Student oldestStudent = students[students.FindIndex(x => x.Age == maxAge)];
             Console.WriteLine($"Oldest student: {oldestStudent.Name}");
 
+            //Alternate nested query
+            //(I think this is a lot slower for large data sets, since it has to find what the max age is a number of times equal to the number of elements in the array, I think this is n^2)
+            List<Student> oldestStudents = students.Where(x => x.Age == students.Max(y => y.Age)).ToList();
+
             //Youngest student
             int minAge = students.Min(x => x.Age);
             Student youngestStudent = students[students.FindIndex(x => x.Age == minAge)];
